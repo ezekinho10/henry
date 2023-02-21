@@ -1,2 +1,1 @@
-# henry
-practica
+Este es un proyecto una prueba de como crear un repositorio. 
